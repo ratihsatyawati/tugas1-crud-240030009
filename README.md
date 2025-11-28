@@ -99,16 +99,35 @@ Wajib dibuat dengan permission write (chmod 775 atau 777).
 
 ## Pengujian
 
-1. Tekan "Tambah Data"
-2. Input seluruh data yang diperlukan
-3. Data baru dengan nama Stevi berhasil muncul
-4. Jika ingin mengedit, klik tombol "Edit"
-5. Edit data yang diperlukan, seperti contoh saya mengedit data status mahasiswa
-6. Data berhasil diedit
-7. Jika ingin mengapus data, klik tombol "Delete"
-8. Konfirmasi apakah anda serius ingin menghapus data
-9. Data berhasil dihapus 
+### 1. Tekan "Tambah Data"
+<img width="348" height="117" alt="Image" src="https://github.com/user-attachments/assets/8ba5e86d-6ade-4a02-a6c1-0205d4d45b5d" />
 
+### 2. Input seluruh data yang diperlukan
+<img width="826" height="563" alt="Image" src="https://github.com/user-attachments/assets/794f5a51-e82d-4e92-8074-d9590949be4a" />
+   
+### 3. Data baru dengan nama "Stevi" berhasil ditambahkan
+Akan muncul pemberitahuan "Berhasil memasukkan data baru"
+<img width="814" height="457" alt="Image" src="https://github.com/user-attachments/assets/5687f135-6601-4f11-83ae-e3e8b1405801" />
+
+### 4. Jika ingin mengedit, klik tombol "Edit" pada data yang ingin diedit
+<img width="609" height="61" alt="Image" src="https://github.com/user-attachments/assets/3f026c2d-b7e2-4cb5-87d4-e56c010cd655" />
+
+### 5. Edit data yang diperlukan, seperti contoh saya mengedit "Status" dari "Aktif" menjadi "Tidak Aktif"
+<img width="561" height="490" alt="Image" src="https://github.com/user-attachments/assets/a15a6836-6f46-41ef-ac48-48cdfba987f1" />
+
+### 6. Data berhasil diedit
+Akan muncul pemberitahuan "Data berhasil diupdate"
+<img width="813" height="459" alt="Image" src="https://github.com/user-attachments/assets/3295c0af-50c9-445f-aaee-2603a594b500" />
+    
+### 7. Jika ingin mengapus data, klik tombol "Delete"
+<img width="622" height="62" alt="Image" src="https://github.com/user-attachments/assets/bc7565f5-12c2-4d06-8c9c-5a8317279ed3" />
+
+### 8. Konfirmasi apakah anda serius ingin menghapus data
+<img width="514" height="208" alt="Image" src="https://github.com/user-attachments/assets/4886cc16-08b0-440a-9cc9-9b5a9d3b4eb0" />
+
+### 9. Data berhasil dihapus 
+Setelah dihapus, tidak ada data dengan nama "Stevi" pada tabel
+<img width="795" height="512" alt="Image" src="https://github.com/user-attachments/assets/b9f45d6a-8ed0-49fa-a9dd-93312cad6f56" />
    
 
 
