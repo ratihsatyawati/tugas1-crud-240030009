@@ -122,7 +122,7 @@ Akan muncul pemberitahuan "Data berhasil diupdate"
 ### 7. Jika ingin mengapus data, klik tombol "Delete"
 <img width="622" height="62" alt="Image" src="https://github.com/user-attachments/assets/bc7565f5-12c2-4d06-8c9c-5a8317279ed3" />
 
-### 8. Konfirmasi apakah anda serius ingin menghapus data
+### 8. Konfirmasi apakah anda serius ingin menghapus data. Jika iya klik "Ok", dan jika tidak klik "Cancel"
 <img width="514" height="208" alt="Image" src="https://github.com/user-attachments/assets/4886cc16-08b0-440a-9cc9-9b5a9d3b4eb0" />
 
 ### 9. Data berhasil dihapus 
